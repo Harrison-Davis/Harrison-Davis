@@ -1,3 +1,18 @@
+Hi 👋 My name is Harrison Davis
+===============================
+
+Software Development Engineer
+-----------------------------
+
+Bootcamp graduate with 4 tech stacks specializing in front-end development.
+
+* 🌍  I'm based in United States
+* ✉️  You can contact me at [harrisondavis100@gmail.com](mailto:harrisondavis100@gmail.com)
+* 🧠  I'm learning REACT
+* 🤝  I'm open to collaborating on projects
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
