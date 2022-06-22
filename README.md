@@ -6,7 +6,7 @@ Software Development Engineer
 
 Bootcamp graduate with 4 tech stacks specializing in front-end development.
 
-* 🌍  I'm based in United States
+* 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [harrisondavis100@gmail.com](mailto:harrisondavis100@gmail.com)
 * 🧠  I'm learning REACT
 * 🤝  I'm open to collaborating on projects
